@@ -1,0 +1,13 @@
+---------------------------------------------
+Starting matrix (256x256) addition program...
+
+Thread 1: Done
+Thread 0: Done
+Thread 2: Done
+Thread 3: Done
+Thread 4: Done
+Thread 5: Done
+Thread 6: Done
+Thread 7: Done
+End of program. Exiting...
+---------------------------------------------

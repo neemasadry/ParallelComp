@@ -1,0 +1,49 @@
+---------------------------------------------
+Starting square matrix (1024x1024) multiplication program...
+
+Initialized matrices!
+END TIME: -2.554915!
+finished serialized matrix multiplication!
+END TIME: -0.392219!
+finished parallelized matrix multiplication (# of Threads: 2)!
+END TIME: -0.392598!
+finished parallelized matrix multiplication (# of Threads: 4)!
+END TIME: -0.396456!
+finished parallelized matrix multiplication (# of Threads: 8)!
+END TIME: -0.402602!
+finished parallelized matrix multiplication (# of Threads: 16)!
+END TIME: -0.379635!
+finished parallelized matrix multiplication (# of Threads: 32)!
+END TIME: -0.377955!
+finished parallelized matrix multiplication (# of Threads: 2)!
+END TIME: -0.417695!
+finished parallelized matrix multiplication (# of Threads: 4)!
+END TIME: -0.366853!
+finished parallelized matrix multiplication (# of Threads: 8)!
+END TIME: -0.403399!
+finished parallelized matrix multiplication (# of Threads: 16)!
+END TIME: -0.375247!
+finished parallelized matrix multiplication (# of Threads: 32)!
+END TIME: -0.349352!
+finished parallelized matrix multiplication (# of Threads: 2)!
+END TIME: -0.342409!
+finished parallelized matrix multiplication (# of Threads: 4)!
+END TIME: -0.354898!
+finished parallelized matrix multiplication (# of Threads: 8)!
+END TIME: -0.362124!
+finished parallelized matrix multiplication (# of Threads: 16)!
+END TIME: -0.362344!
+finished parallelized matrix multiplication (# of Threads: 32)!
+END TIME: -0.341566!
+finished parallelized matrix multiplication (# of Threads: 2)!
+END TIME: -0.338593!
+finished parallelized matrix multiplication (# of Threads: 4)!
+END TIME: -0.338508!
+finished parallelized matrix multiplication (# of Threads: 8)!
+END TIME: -0.337386!
+finished parallelized matrix multiplication (# of Threads: 16)!
+END TIME: -0.339513!
+finished parallelized matrix multiplication (# of Threads: 32)!
+
+End of program. Exiting...
+---------------------------------------------

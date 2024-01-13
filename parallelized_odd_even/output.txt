@@ -1,0 +1,30 @@
+
+Array sorted using Standard Odd-Even Sort!
+
+	Standard Odd-Even Sort with MPI in 0.010000 seconds
+
+
+Array sorted using Standard Odd-Even Sort!
+
+	Standard Odd-Even Sort with MPI in 0.060000 seconds
+
+
+Array sorted using Standard Odd-Even Sort!
+
+	Standard Odd-Even Sort with MPI in 1.090000 seconds
+
+
+Array sorted using Modified Odd-Even Parallel algorithm!
+Sorted with MPI in 6.725565 seconds
+
+
+Array Quick Sorted!
+Sorted using Serial Quicksort in 0.006168 seconds
+
+Array Quick Sorted!
+Sorted using Serial Quicksort in 0.580000 seconds
+
+Array Quick Sorted!
+Sorted using Serial Quicksort in 8.730000 seconds
+
+

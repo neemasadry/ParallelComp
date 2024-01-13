@@ -1,0 +1,7 @@
+---------------------------------------------
+Starting sequential MPI matrix (2048x2048) addition program...
+
+Sequential matrix addition finished! Time: 0.740000
+
+End of program. Exiting...
+---------------------------------------------

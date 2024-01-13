@@ -1,0 +1,4 @@
+Sequential program ran without any issues both locally and on the Grid. The MPI program, however, was not able to run correctly, especially after changing the initial MPI code from Send/Receive to Scatter/Gather, which is technically supposed to be more efficient and avoid running into issues with deadlocks. For this reason, only the time difference for sequential matrix addition (Grid) is given below:
+
+Sequential matrix addition finished! Time: 0.740000
+MPI Time difference: N/A
